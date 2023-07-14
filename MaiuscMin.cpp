@@ -15,5 +15,6 @@ int main() {
         cout << "Il carattere inserito non e' una lettera" << endl;
     }
     cout << "esercizio finito" <<endl;
+    cout << "arrivederci alla prossima" <<endl;
     return 0;
 }
